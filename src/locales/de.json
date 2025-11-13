@@ -1,0 +1,38 @@
+{
+	"header": {
+		"company": "Mauber Informatik",
+		"tagline": "Digitale Innovation und mobile App-Entwicklung"
+	},
+	"hero": {
+		"description": "Wir entwickeln innovative mobile Anwendungen für Android und iOS mit Fokus auf Benutzererfahrung und technische Exzellenz. Unsere digitalen Lösungen verwandeln Ideen in technologische Realität."
+	},
+	"buttons": {
+		"appStore": "Im App Store laden",
+		"googlePlay": "Bei Google Play erhältlich",
+		"comingSoon": "Bald verfügbar"
+	},
+	"navigation": {
+		"about": "Über uns",
+		"apps": "Anwendungen",
+		"privacy": "Datenschutz",
+		"contact": "Kontakt"
+	},
+	"footer": {
+		"rights": "Alle Rechte vorbehalten."
+	},
+	"accessibility": {
+		"selectLanguage": "Sprache auswählen",
+		"contactEmail": "E-Mail an contato@mauberinformatica.com senden",
+		"storeLinks": "Links zu App-Stores"
+	},
+	"languages": {
+		"pt-BR": "Portugiesisch (Brasilien)",
+		"pt-PT": "Portugiesisch (Portugal)",
+		"en": "Englisch",
+		"es": "Spanisch",
+		"ja": "Japanisch",
+		"fr": "Französisch",
+		"de": "Deutsch",
+		"it": "Italienisch"
+	}
+}

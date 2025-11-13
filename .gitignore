@@ -1,0 +1,105 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Expo
+.expo/
+.expo-shared/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native builds
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.ipa
+*.apk
+*.aab
+
+# Metro
+.metro-health-check*
+.metro/
+
+# Testing
+coverage/
+.nyc_output/
+*.lcov
+
+# Debug & Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+logs/
+
+# IDEs and Editors
+.vscode/.react/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+.vscode/launch.json
+.vscode/tasks.json
+
+# macOS
+.DS_Store
+*.pem
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Environment files
+.env
+.env*.local
+.env.development
+.env.production
+.env.test
+
+# TypeScript
+*.tsbuildinfo
+.tscache/
+
+# Build outputs
+build/
+dist/
+tmp/
+temp/
+
+# Cache
+.cache/
+.eslintcache
+.stylelintcache
+
+# Generated files
+*.g.ts
+*.g.tsx
+*.generated.ts
+*.generated.tsx
+
+# Generated native folders (bare workflow)
+/ios
+/android
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+.temp/
+
+# MCP Servers
+.vscode/mcp.json

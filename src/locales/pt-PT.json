@@ -1,0 +1,40 @@
+{
+	"header": {
+		"company": "Mauber Informática",
+		"tagline": "Aplicações inovadoras para Android e iOS"
+	},
+	"hero": {
+		"description": "Estamos a trabalhar em aplicações incríveis que estarão disponíveis em breve nas lojas. Fique atento aos nossos lançamentos."
+	},
+	"buttons": {
+		"appStore": "Baixar na App Store",
+		"googlePlay": "Disponível no Google Play",
+		"comingSoon": "Em breve"
+	},
+	"navigation": {
+		"about": "Sobre",
+		"apps": "Aplicações",
+		"contact": "Contacto",
+		"privacy": "Privacidade"
+	},
+	"footer": {
+		"rights": "Todos os direitos reservados.",
+		"email": "contacto@mauberinformatica.com"
+	},
+	"accessibility": {
+		"skipToContent": "Saltar para o conteúdo principal",
+		"selectLanguage": "Seleccionar idioma",
+		"contactEmail": "Enviar email para contato@mauberinformatica.com",
+		"storeLinks": "Ligações para lojas de aplicações"
+	},
+	"languages": {
+		"pt-BR": "Português (Brasil)",
+		"pt-PT": "Português (Portugal)",
+		"en": "English",
+		"es": "Español",
+		"ja": "日本語",
+		"fr": "Français",
+		"de": "Deutsch",
+		"it": "Italiano"
+	}
+}

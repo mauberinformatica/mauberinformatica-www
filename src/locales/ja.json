@@ -1,0 +1,40 @@
+{
+	"header": {
+		"company": "Mauber Informática",
+		"tagline": "AndroidとiOS向けの革新的なアプリ"
+	},
+	"hero": {
+		"description": "まもなくストアで公開される素晴らしいアプリを開発中です。リリースをお待ちください。"
+	},
+	"buttons": {
+		"appStore": "App Storeでダウンロード",
+		"googlePlay": "Google Playで入手",
+		"comingSoon": "近日公開"
+	},
+	"navigation": {
+		"about": "会社概要",
+		"apps": "アプリ",
+		"contact": "お問い合わせ",
+		"privacy": "プライバシー"
+	},
+	"footer": {
+		"rights": "全著作権所有。",
+		"email": "contact@mauberinformatica.com"
+	},
+	"accessibility": {
+		"skipToContent": "メインコンテンツへスキップ",
+		"selectLanguage": "言語を選択",
+		"contactEmail": "contato@mauberinformatica.comにメールを送信",
+		"storeLinks": "アプリストアリンク"
+	},
+	"languages": {
+		"pt-BR": "Português (Brasil)",
+		"pt-PT": "Português (Portugal)",
+		"en": "English",
+		"es": "Español",
+		"ja": "日本語",
+		"fr": "Français",
+		"de": "Deutsch",
+		"it": "Italiano"
+	}
+}

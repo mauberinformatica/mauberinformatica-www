@@ -1,5 +1,7 @@
 {
-  "projects": {
-    "default": "mauberinformatica-site"
-  }
+	"projects": {
+		"default": "mauberinformatica"
+	},
+	"targets": {},
+	"etags": {}
 }

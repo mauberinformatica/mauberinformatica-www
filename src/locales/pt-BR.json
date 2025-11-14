@@ -16,6 +16,7 @@
 		"apps": "Apps",
 		"contact": "Contato",
 		"privacy": "Privacidade",
+		"terms": "Termos de Uso",
 		"backToHome": "Voltar para o início"
 	},
 	"footer": {
@@ -100,6 +101,64 @@
 		"contact": {
 			"title": "9. Contato",
 			"content": "Se você tiver dúvidas sobre esta Política de Privacidade ou sobre nossas práticas de dados, entre em contato conosco:"
+		}
+	},
+	"terms": {
+		"title": "Termos de Uso",
+		"subtitle": "Mauber Informática - Última atualização: 14 de novembro de 2025",
+		"lastUpdated": "Última atualização: 14 de novembro de 2025",
+		"acceptance": {
+			"title": "1. Aceitação dos Termos",
+			"content": "Ao acessar e usar os aplicativos e serviços da Mauber Informática, você concorda em cumprir e estar vinculado a estes Termos de Uso. Se você não concordar com qualquer parte destes termos, não deverá usar nossos serviços."
+		},
+		"services": {
+			"title": "2. Descrição dos Serviços",
+			"content": "A Mauber Informática desenvolve e fornece aplicativos móveis para plataformas Android e iOS. Nossos serviços podem incluir funcionalidades diversas conforme especificado em cada aplicativo, e reservamos o direito de modificar, suspender ou descontinuar qualquer serviço a qualquer momento."
+		},
+		"userAccount": {
+			"title": "3. Conta de Usuário",
+			"content": "Para utilizar certos recursos de nossos aplicativos, pode ser necessário criar uma conta. Você concorda em:",
+			"items": [
+				"Fornecer informações precisas, atuais e completas durante o registro",
+				"Manter a segurança de sua senha e identificação",
+				"Notificar-nos imediatamente sobre qualquer uso não autorizado de sua conta",
+				"Ser responsável por todas as atividades realizadas através de sua conta"
+			]
+		},
+		"acceptableUse": {
+			"title": "4. Uso Aceitável",
+			"content": "Você concorda em não usar nossos serviços para:",
+			"items": [
+				"Violar quaisquer leis ou regulamentos aplicáveis",
+				"Infringir direitos de propriedade intelectual de terceiros",
+				"Transmitir vírus, malware ou qualquer código malicioso",
+				"Interferir ou interromper os serviços ou servidores",
+				"Coletar informações de outros usuários sem consentimento"
+			]
+		},
+		"intellectualProperty": {
+			"title": "5. Propriedade Intelectual",
+			"content": "Todos os direitos de propriedade intelectual relacionados aos nossos aplicativos e serviços, incluindo mas não limitado a código-fonte, design, marcas e conteúdo, são de propriedade exclusiva da Mauber Informática. Você não pode copiar, modificar, distribuir ou criar trabalhos derivados sem nossa autorização prévia por escrito."
+		},
+		"liability": {
+			"title": "6. Limitação de Responsabilidade",
+			"content": "Os serviços são fornecidos 'como estão' sem garantias de qualquer tipo. A Mauber Informática não se responsabiliza por danos diretos, indiretos, incidentais ou consequenciais resultantes do uso ou incapacidade de usar nossos serviços. Não garantimos que os serviços serão ininterruptos, seguros ou livres de erros."
+		},
+		"modifications": {
+			"title": "7. Modificações dos Serviços e Termos",
+			"content": "Reservamos o direito de modificar ou descontinuar, temporária ou permanentemente, nossos serviços (ou qualquer parte deles) com ou sem aviso prévio. Também podemos atualizar estes Termos de Uso periodicamente. O uso continuado dos serviços após modificações constitui aceitação dos novos termos."
+		},
+		"termination": {
+			"title": "8. Rescisão",
+			"content": "Podemos suspender ou encerrar seu acesso aos nossos serviços a qualquer momento, sem aviso prévio, por conduta que acreditemos violar estes Termos de Uso ou ser prejudicial a outros usuários, a nós ou a terceiros, ou por qualquer outro motivo."
+		},
+		"governingLaw": {
+			"title": "9. Lei Aplicável",
+			"content": "Estes Termos de Uso serão regidos e interpretados de acordo com as leis do Brasil, sem considerar conflitos de disposições legais. Qualquer disputa relacionada a estes termos será resolvida nos tribunais competentes do Brasil."
+		},
+		"contact": {
+			"title": "10. Contato",
+			"content": "Se você tiver dúvidas sobre estes Termos de Uso, entre em contato conosco:"
 		}
 	}
 }

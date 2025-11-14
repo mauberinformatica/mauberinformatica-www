@@ -15,6 +15,7 @@
 		"about": "À propos",
 		"apps": "Applications",
 		"privacy": "Confidentialité",
+		"terms": "Conditions d'Utilisation",
 		"contact": "Contact",
 		"backToHome": "Retour à l'accueil"
 	},
@@ -98,6 +99,64 @@
 		"contact": {
 			"title": "9. Contact",
 			"content": "Si vous avez des questions concernant cette politique de confidentialité ou nos pratiques en matière de données, contactez-nous:"
+		}
+	},
+	"terms": {
+		"title": "Conditions d'Utilisation",
+		"subtitle": "Mauber Informatique - Dernière mise à jour : 14 novembre 2025",
+		"lastUpdated": "Dernière mise à jour : 14 novembre 2025",
+		"acceptance": {
+			"title": "1. Acceptation des Conditions",
+			"content": "En accédant et en utilisant les applications et services de Mauber Informatique, vous acceptez de respecter et d'être lié par ces Conditions d'Utilisation. Si vous n'acceptez pas une partie de ces conditions, vous ne devez pas utiliser nos services."
+		},
+		"services": {
+			"title": "2. Description des Services",
+			"content": "Mauber Informatique développe et fournit des applications mobiles pour les plateformes Android et iOS. Nos services peuvent inclure diverses fonctionnalités comme spécifié dans chaque application, et nous nous réservons le droit de modifier, suspendre ou interrompre tout service à tout moment."
+		},
+		"userAccount": {
+			"title": "3. Compte Utilisateur",
+			"content": "Pour utiliser certaines fonctionnalités de nos applications, il peut être nécessaire de créer un compte. Vous acceptez de :",
+			"items": [
+				"Fournir des informations exactes, actuelles et complètes lors de l'inscription",
+				"Maintenir la sécurité de votre mot de passe et de votre identification",
+				"Nous informer immédiatement de toute utilisation non autorisée de votre compte",
+				"Être responsable de toutes les activités effectuées via votre compte"
+			]
+		},
+		"acceptableUse": {
+			"title": "4. Utilisation Acceptable",
+			"content": "Vous acceptez de ne pas utiliser nos services pour :",
+			"items": [
+				"Violer toute loi ou réglementation applicable",
+				"Enfreindre les droits de propriété intellectuelle de tiers",
+				"Transmettre des virus, des logiciels malveillants ou tout code malicieux",
+				"Interférer ou perturber les services ou serveurs",
+				"Collecter des informations sur d'autres utilisateurs sans consentement"
+			]
+		},
+		"intellectualProperty": {
+			"title": "5. Propriété Intellectuelle",
+			"content": "Tous les droits de propriété intellectuelle relatifs à nos applications et services, y compris mais sans s'y limiter le code source, le design, les marques et le contenu, sont la propriété exclusive de Mauber Informatique. Vous ne pouvez pas copier, modifier, distribuer ou créer des œuvres dérivées sans notre autorisation écrite préalable."
+		},
+		"liability": {
+			"title": "6. Limitation de Responsabilité",
+			"content": "Les services sont fournis 'tels quels' sans aucune garantie. Mauber Informatique n'est pas responsable des dommages directs, indirects, accessoires ou consécutifs résultant de l'utilisation ou de l'incapacité à utiliser nos services. Nous ne garantissons pas que les services seront ininterrompus, sécurisés ou exempts d'erreurs."
+		},
+		"modifications": {
+			"title": "7. Modifications des Services et Conditions",
+			"content": "Nous nous réservons le droit de modifier ou d'interrompre, temporairement ou définitivement, nos services (ou toute partie de ceux-ci) avec ou sans préavis. Nous pouvons également mettre à jour ces Conditions d'Utilisation périodiquement. L'utilisation continue des services après modification constitue l'acceptation des nouvelles conditions."
+		},
+		"termination": {
+			"title": "8. Résiliation",
+			"content": "Nous pouvons suspendre ou résilier votre accès à nos services à tout moment, sans préavis, pour une conduite que nous estimons violer ces Conditions d'Utilisation ou être préjudiciable à d'autres utilisateurs, à nous ou à des tiers, ou pour toute autre raison."
+		},
+		"governingLaw": {
+			"title": "9. Droit Applicable",
+			"content": "Ces Conditions d'Utilisation sont régies et interprétées conformément aux lois de la France, sans tenir compte des conflits de dispositions légales. Tout litige relatif à ces conditions sera résolu devant les tribunaux compétents de France."
+		},
+		"contact": {
+			"title": "10. Contact",
+			"content": "Si vous avez des questions concernant ces Conditions d'Utilisation, contactez-nous :"
 		}
 	}
 }

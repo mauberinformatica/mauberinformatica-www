@@ -16,6 +16,7 @@
 		"apps": "Aplicaciones",
 		"contact": "Contacto",
 		"privacy": "Privacidad",
+		"terms": "Términos de Uso",
 		"backToHome": "Volver al inicio"
 	},
 	"footer": {
@@ -100,6 +101,64 @@
 		"contact": {
 			"title": "9. Contacto",
 			"content": "Si tiene preguntas sobre esta Política de Privacidad o sobre nuestras prácticas de datos, contáctenos:"
+		}
+	},
+	"terms": {
+		"title": "Términos de Uso",
+		"subtitle": "Mauber Informática - Última actualización: 14 de noviembre de 2025",
+		"lastUpdated": "Última actualización: 14 de noviembre de 2025",
+		"acceptance": {
+			"title": "1. Aceptación de los Términos",
+			"content": "Al acceder y utilizar las aplicaciones y servicios de Mauber Informática, usted acepta cumplir y estar sujeto a estos Términos de Uso. Si no está de acuerdo con alguna parte de estos términos, no debe utilizar nuestros servicios."
+		},
+		"services": {
+			"title": "2. Descripción de los Servicios",
+			"content": "Mauber Informática desarrolla y proporciona aplicaciones móviles para plataformas Android e iOS. Nuestros servicios pueden incluir diversas funcionalidades según lo especificado en cada aplicación, y nos reservamos el derecho de modificar, suspender o discontinuar cualquier servicio en cualquier momento."
+		},
+		"userAccount": {
+			"title": "3. Cuenta de Usuario",
+			"content": "Para utilizar ciertas funciones de nuestras aplicaciones, puede ser necesario crear una cuenta. Usted acepta:",
+			"items": [
+				"Proporcionar información precisa, actual y completa durante el registro",
+				"Mantener la seguridad de su contraseña e identificación",
+				"Notificarnos inmediatamente sobre cualquier uso no autorizado de su cuenta",
+				"Ser responsable de todas las actividades realizadas a través de su cuenta"
+			]
+		},
+		"acceptableUse": {
+			"title": "4. Uso Aceptable",
+			"content": "Usted acepta no utilizar nuestros servicios para:",
+			"items": [
+				"Violar cualquier ley o regulación aplicable",
+				"Infringir derechos de propiedad intelectual de terceros",
+				"Transmitir virus, malware o cualquier código malicioso",
+				"Interferir o interrumpir los servicios o servidores",
+				"Recopilar información de otros usuarios sin consentimiento"
+			]
+		},
+		"intellectualProperty": {
+			"title": "5. Propiedad Intelectual",
+			"content": "Todos los derechos de propiedad intelectual relacionados con nuestras aplicaciones y servicios, incluyendo pero no limitado a código fuente, diseño, marcas y contenido, son propiedad exclusiva de Mauber Informática. No puede copiar, modificar, distribuir ni crear trabajos derivados sin nuestra autorización previa por escrito."
+		},
+		"liability": {
+			"title": "6. Limitación de Responsabilidad",
+			"content": "Los servicios se proporcionan 'tal cual' sin garantías de ningún tipo. Mauber Informática no se responsabiliza por daños directos, indirectos, incidentales o consecuentes resultantes del uso o la imposibilidad de usar nuestros servicios. No garantizamos que los servicios sean ininterrumpidos, seguros o libres de errores."
+		},
+		"modifications": {
+			"title": "7. Modificaciones de los Servicios y Términos",
+			"content": "Nos reservamos el derecho de modificar o discontinuar, temporal o permanentemente, nuestros servicios (o cualquier parte de ellos) con o sin previo aviso. También podemos actualizar estos Términos de Uso periódicamente. El uso continuado de los servicios después de las modificaciones constituye la aceptación de los nuevos términos."
+		},
+		"termination": {
+			"title": "8. Terminación",
+			"content": "Podemos suspender o terminar su acceso a nuestros servicios en cualquier momento, sin previo aviso, por conducta que consideremos que viola estos Términos de Uso o que sea perjudicial para otros usuarios, para nosotros o para terceros, o por cualquier otro motivo."
+		},
+		"governingLaw": {
+			"title": "9. Ley Aplicable",
+			"content": "Estos Términos de Uso se regirán e interpretarán de acuerdo con las leyes de España, sin considerar conflictos de disposiciones legales. Cualquier disputa relacionada con estos términos se resolverá en los tribunales competentes de España."
+		},
+		"contact": {
+			"title": "10. Contacto",
+			"content": "Si tiene preguntas sobre estos Términos de Uso, contáctenos:"
 		}
 	}
 }

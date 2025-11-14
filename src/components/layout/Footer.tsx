@@ -37,6 +37,12 @@ export function Footer({ currentYear }: FooterProps) {
 					>
 						{t('navigation.privacy')}
 					</Link>
+					<Link
+						to="/terms"
+						className="hover:text-gray-900 transition-colors focus:outline-none focus:text-gray-900"
+					>
+						{t('navigation.terms')}
+					</Link>
 					<a
 						href="mailto:contato@mauberinformatica.com"
 						className="hover:text-gray-900 transition-colors inline-flex items-center focus:outline-none focus:text-gray-900"

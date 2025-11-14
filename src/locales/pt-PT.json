@@ -16,6 +16,7 @@
 		"apps": "Aplicações",
 		"contact": "Contacto",
 		"privacy": "Privacidade",
+		"terms": "Termos de Uso",
 		"backToHome": "Voltar ao início"
 	},
 	"footer": {
@@ -100,6 +101,64 @@
 		"contact": {
 			"title": "9. Contacto",
 			"content": "Se tiver dúvidas sobre esta Política de Privacidade ou sobre as nossas práticas de dados, contacte-nos:"
+		}
+	},
+	"terms": {
+		"title": "Termos de Uso",
+		"subtitle": "Mauber Informática - Última actualização: 14 de novembro de 2025",
+		"lastUpdated": "Última actualização: 14 de novembro de 2025",
+		"acceptance": {
+			"title": "1. Aceitação dos Termos",
+			"content": "Ao aceder e usar as aplicações e serviços da Mauber Informática, concorda em cumprir e estar vinculado a estes Termos de Uso. Se não concordar com qualquer parte destes termos, não deverá usar os nossos serviços."
+		},
+		"services": {
+			"title": "2. Descrição dos Serviços",
+			"content": "A Mauber Informática desenvolve e fornece aplicações móveis para plataformas Android e iOS. Os nossos serviços podem incluir funcionalidades diversas conforme especificado em cada aplicação, e reservamos o direito de modificar, suspender ou descontinuar qualquer serviço a qualquer momento."
+		},
+		"userAccount": {
+			"title": "3. Conta de Utilizador",
+			"content": "Para utilizar certos recursos das nossas aplicações, pode ser necessário criar uma conta. Concorda em:",
+			"items": [
+				"Fornecer informações precisas, actuais e completas durante o registo",
+				"Manter a segurança da sua palavra-passe e identificação",
+				"Notificar-nos imediatamente sobre qualquer uso não autorizado da sua conta",
+				"Ser responsável por todas as actividades realizadas através da sua conta"
+			]
+		},
+		"acceptableUse": {
+			"title": "4. Uso Aceitável",
+			"content": "Concorda em não usar os nossos serviços para:",
+			"items": [
+				"Violar quaisquer leis ou regulamentos aplicáveis",
+				"Infringir direitos de propriedade intelectual de terceiros",
+				"Transmitir vírus, malware ou qualquer código malicioso",
+				"Interferir ou interromper os serviços ou servidores",
+				"Recolher informações de outros utilizadores sem consentimento"
+			]
+		},
+		"intellectualProperty": {
+			"title": "5. Propriedade Intelectual",
+			"content": "Todos os direitos de propriedade intelectual relacionados às nossas aplicações e serviços, incluindo mas não limitado a código-fonte, design, marcas e conteúdo, são de propriedade exclusiva da Mauber Informática. Não pode copiar, modificar, distribuir ou criar trabalhos derivados sem a nossa autorização prévia por escrito."
+		},
+		"liability": {
+			"title": "6. Limitação de Responsabilidade",
+			"content": "Os serviços são fornecidos 'como estão' sem garantias de qualquer tipo. A Mauber Informática não se responsabiliza por danos directos, indirectos, incidentais ou consequenciais resultantes do uso ou incapacidade de usar os nossos serviços. Não garantimos que os serviços serão ininterruptos, seguros ou livres de erros."
+		},
+		"modifications": {
+			"title": "7. Modificações dos Serviços e Termos",
+			"content": "Reservamos o direito de modificar ou descontinuar, temporária ou permanentemente, os nossos serviços (ou qualquer parte deles) com ou sem aviso prévio. Também podemos actualizar estes Termos de Uso periodicamente. O uso continuado dos serviços após modificações constitui aceitação dos novos termos."
+		},
+		"termination": {
+			"title": "8. Rescisão",
+			"content": "Podemos suspender ou encerrar o seu acesso aos nossos serviços a qualquer momento, sem aviso prévio, por conduta que acreditemos violar estes Termos de Uso ou ser prejudicial a outros utilizadores, a nós ou a terceiros, ou por qualquer outro motivo."
+		},
+		"governingLaw": {
+			"title": "9. Lei Aplicável",
+			"content": "Estes Termos de Uso serão regidos e interpretados de acordo com as leis de Portugal, sem considerar conflitos de disposições legais. Qualquer disputa relacionada a estes termos será resolvida nos tribunais competentes de Portugal."
+		},
+		"contact": {
+			"title": "10. Contacto",
+			"content": "Se tiver dúvidas sobre estes Termos de Uso, contacte-nos:"
 		}
 	}
 }

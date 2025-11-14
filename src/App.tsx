@@ -9,6 +9,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Layout } from './components/layout/Layout';
 import { Home } from './pages/Home';
 import { Privacy } from './pages/Privacy';
+import { Terms } from './pages/Terms';
 import { NotFound } from './pages/NotFound';
 
 /**
@@ -43,6 +44,9 @@ export default function App() {
 
 						{/* Página de privacidade */}
 						<Route path="/privacy" element={<Privacy />} />
+
+						{/* Página de termos de uso */}
+						<Route path="/terms" element={<Terms />} />
 
 						{/* Página 404 - captura todas as rotas não encontradas */}
 						<Route path="*" element={<NotFound />} />

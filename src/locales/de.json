@@ -15,6 +15,7 @@
 		"about": "Über uns",
 		"apps": "Anwendungen",
 		"privacy": "Datenschutz",
+		"terms": "Nutzungsbedingungen",
 		"contact": "Kontakt",
 		"backToHome": "Zurück zur Startseite"
 	},
@@ -98,6 +99,64 @@
 		"contact": {
 			"title": "9. Kontakt",
 			"content": "Wenn Sie Fragen zu dieser Datenschutzerklärung oder unseren Datenpraktiken haben, kontaktieren Sie uns:"
+		},
+		"terms": {
+			"title": "Nutzungsbedingungen",
+			"subtitle": "Mauber Informatik - Letzte Aktualisierung: 14. November 2025",
+			"lastUpdated": "Letzte Aktualisierung: 14. November 2025",
+			"acceptance": {
+				"title": "1. Akzeptanz der Bedingungen",
+				"content": "Durch den Zugriff auf und die Nutzung der Anwendungen und Dienste von Mauber Informatik erklären Sie sich damit einverstanden, diese Nutzungsbedingungen einzuhalten und an sie gebunden zu sein. Wenn Sie mit einem Teil dieser Bedingungen nicht einverstanden sind, sollten Sie unsere Dienste nicht nutzen."
+			},
+			"services": {
+				"title": "2. Beschreibung der Dienste",
+				"content": "Mauber Informatik entwickelt und bietet mobile Anwendungen für Android- und iOS-Plattformen an. Unsere Dienste können verschiedene Funktionen enthalten, wie in jeder Anwendung angegeben, und wir behalten uns das Recht vor, jeden Dienst jederzeit zu ändern, auszusetzen oder einzustellen."
+			},
+			"userAccount": {
+				"title": "3. Benutzerkonto",
+				"content": "Um bestimmte Funktionen unserer Anwendungen nutzen zu können, kann es erforderlich sein, ein Konto zu erstellen. Sie erklären sich damit einverstanden:",
+				"items": [
+					"Bei der Registrierung genaue, aktuelle und vollständige Informationen bereitzustellen",
+					"Die Sicherheit Ihres Passworts und Ihrer Identifikation zu gewährleisten",
+					"Uns unverzüglich über jede unbefugte Nutzung Ihres Kontos zu informieren",
+					"Für alle Aktivitäten, die über Ihr Konto durchgeführt werden, verantwortlich zu sein"
+				]
+			},
+			"acceptableUse": {
+				"title": "4. Zulässige Nutzung",
+				"content": "Sie erklären sich damit einverstanden, unsere Dienste nicht zu nutzen für:",
+				"items": [
+					"Verstoß gegen geltende Gesetze oder Vorschriften",
+					"Verletzung von geistigen Eigentumsrechten Dritter",
+					"Übertragung von Viren, Malware oder bösartigem Code",
+					"Störung oder Unterbrechung von Diensten oder Servern",
+					"Sammeln von Informationen anderer Nutzer ohne deren Zustimmung"
+				]
+			},
+			"intellectualProperty": {
+				"title": "5. Geistiges Eigentum",
+				"content": "Alle Rechte an geistigem Eigentum in Bezug auf unsere Anwendungen und Dienste, einschließlich, aber nicht beschränkt auf Quellcode, Design, Marken und Inhalte, sind ausschließliches Eigentum von Mauber Informatik. Sie dürfen ohne unsere vorherige schriftliche Genehmigung keine Kopien anfertigen, Änderungen vornehmen, verbreiten oder abgeleitete Werke erstellen."
+			},
+			"liability": {
+				"title": "6. Haftungsbeschränkung",
+				"content": "Die Dienste werden 'wie sie sind' ohne jegliche Gewährleistung bereitgestellt. Mauber Informatik haftet nicht für direkte, indirekte, zufällige oder Folgeschäden, die sich aus der Nutzung oder der Unfähigkeit zur Nutzung unserer Dienste ergeben. Wir garantieren nicht, dass die Dienste unterbrechungsfrei, sicher oder fehlerfrei sind."
+			},
+			"modifications": {
+				"title": "7. Änderungen der Dienste und Bedingungen",
+				"content": "Wir behalten uns das Recht vor, unsere Dienste (oder Teile davon) jederzeit mit oder ohne Vorankündigung zu ändern oder einzustellen. Wir können diese Nutzungsbedingungen auch regelmäßig aktualisieren. Die fortgesetzte Nutzung der Dienste nach Änderungen gilt als Zustimmung zu den neuen Bedingungen."
+			},
+			"termination": {
+				"title": "8. Beendigung",
+				"content": "Wir können Ihren Zugang zu unseren Diensten jederzeit und ohne Vorankündigung aussetzen oder beenden, wenn wir der Meinung sind, dass Ihr Verhalten gegen diese Nutzungsbedingungen verstößt oder anderen Nutzern, uns oder Dritten schadet, oder aus anderen Gründen."
+			},
+			"governingLaw": {
+				"title": "9. Anwendbares Recht",
+				"content": "Diese Nutzungsbedingungen unterliegen den Gesetzen Deutschlands und werden entsprechend ausgelegt, ohne Rücksicht auf kollidierende Rechtsvorschriften. Alle Streitigkeiten im Zusammenhang mit diesen Bedingungen werden vor den zuständigen Gerichten in Deutschland beigelegt."
+			},
+			"contact": {
+				"title": "10. Kontakt",
+				"content": "Wenn Sie Fragen zu diesen Nutzungsbedingungen haben, kontaktieren Sie uns:"
+			}
 		}
 	}
 }

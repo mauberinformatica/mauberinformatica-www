@@ -15,7 +15,8 @@
 		"about": "Chi siamo",
 		"apps": "Applicazioni",
 		"privacy": "Privacy",
-		"contact": "Contatto"
+		"contact": "Contatto",
+		"backToHome": "Torna alla home"
 	},
 	"footer": {
 		"rights": "Tutti i diritti riservati."
@@ -39,5 +40,64 @@
 		"title": "404 – Pagina non trovata",
 		"description": "La pagina che stai cercando non esiste o è stata spostata.",
 		"backHome": "Torna alla home"
+	},
+	"privacy": {
+		"title": "Politica sulla Privacy",
+		"subtitle": "Mauber Informática - Ultimo aggiornamento: 14 novembre 2025",
+		"lastUpdated": "Ultimo aggiornamento: 14 novembre 2025",
+		"introduction": {
+			"title": "1. Introduzione",
+			"content": "Mauber Informática si impegna a proteggere la tua privacy. Questa Politica sulla Privacy spiega come raccogliamo, utilizziamo, divulghiamo e proteggiamo le tue informazioni quando utilizzi le nostre applicazioni e servizi."
+		},
+		"dataCollection": {
+			"title": "2. Raccolta di Informazioni",
+			"content": "Possiamo raccogliere i seguenti tipi di informazioni:",
+			"items": [
+				"Informazioni di identificazione personale (nome, indirizzo e-mail, numero di telefono)",
+				"Dati di utilizzo e navigazione nelle applicazioni",
+				"Informazioni sul dispositivo (modello, sistema operativo, identificatori univoci)",
+				"Dati di localizzazione (quando autorizzati dall'utente)"
+			]
+		},
+		"dataUsage": {
+			"title": "3. Uso delle Informazioni",
+			"content": "Le informazioni raccolte vengono utilizzate per:",
+			"items": [
+				"Fornire, operare e migliorare i nostri servizi",
+				"Personalizzare la tua esperienza utente",
+				"Comunicare aggiornamenti e novità sulle nostre applicazioni",
+				"Garantire la sicurezza e prevenire frodi"
+			]
+		},
+		"dataSharing": {
+			"title": "4. Condivisione dei Dati",
+			"content": "Non vendiamo le tue informazioni personali. Possiamo condividere i dati solo con fornitori di servizi affidabili che ci assistono nell'operare le applicazioni, sempre tramite accordi di riservatezza."
+		},
+		"security": {
+			"title": "5. Sicurezza",
+			"content": "Implementiamo misure di sicurezza tecniche e organizzative per proteggere le tue informazioni da accessi non autorizzati, alterazioni, divulgazioni o distruzioni."
+		},
+		"userRights": {
+			"title": "6. I Tuoi Diritti",
+			"content": "Hai il diritto di:",
+			"items": [
+				"Accedere alle tue informazioni personali",
+				"Richiedere la correzione di dati incorretti",
+				"Richiedere la cancellazione dei tuoi dati",
+				"Ritirare il consenso al trattamento dei dati"
+			]
+		},
+		"cookies": {
+			"title": "7. Cookie e Tecnologie Simili",
+			"content": "Utilizziamo cookie e tecnologie simili per migliorare la tua esperienza, analizzare l'uso delle applicazioni e personalizzare i contenuti. Puoi gestire le tue preferenze sui cookie nelle impostazioni del tuo dispositivo."
+		},
+		"changes": {
+			"title": "8. Modifiche a questa Politica",
+			"content": "Possiamo aggiornare periodicamente questa Politica sulla Privacy. Ti informeremo di modifiche significative tramite le nostre applicazioni o via e-mail."
+		},
+		"contact": {
+			"title": "9. Contatto",
+			"content": "Se hai domande su questa Politica sulla Privacy o sulle nostre pratiche sui dati, contattaci:"
+		}
 	}
 }

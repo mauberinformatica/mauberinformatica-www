@@ -1,5 +1,6 @@
 import { Mail } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
+import { Link } from 'react-router-dom';
 
 interface FooterProps {
 	currentYear: number;
@@ -30,12 +31,12 @@ export function Footer({ currentYear }: FooterProps) {
 					>
 						{t('navigation.apps')}
 					</a>
-					<a
-						href="#privacy"
+					<Link
+						to="/privacy"
 						className="hover:text-gray-900 transition-colors focus:outline-none focus:text-gray-900"
 					>
 						{t('navigation.privacy')}
-					</a>
+					</Link>
 					<a
 						href="mailto:contato@mauberinformatica.com"
 						className="hover:text-gray-900 transition-colors inline-flex items-center focus:outline-none focus:text-gray-900"

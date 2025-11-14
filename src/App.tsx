@@ -8,6 +8,7 @@ import { Suspense } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Layout } from './components/layout/Layout';
 import { Home } from './pages/Home';
+import { Privacy } from './pages/Privacy';
 import { NotFound } from './pages/NotFound';
 
 /**
@@ -39,6 +40,9 @@ export default function App() {
 					<Routes>
 						{/* Página inicial */}
 						<Route path="/" element={<Home />} />
+
+						{/* Página de privacidade */}
+						<Route path="/privacy" element={<Privacy />} />
 
 						{/* Página 404 - captura todas as rotas não encontradas */}
 						<Route path="*" element={<NotFound />} />

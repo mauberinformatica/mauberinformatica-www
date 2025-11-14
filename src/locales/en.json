@@ -15,7 +15,8 @@
 		"about": "About",
 		"apps": "Apps",
 		"contact": "Contact",
-		"privacy": "Privacy"
+		"privacy": "Privacy",
+		"backToHome": "Back to home"
 	},
 	"footer": {
 		"rights": "All rights reserved.",
@@ -41,5 +42,64 @@
 		"title": "404 – Page not found",
 		"description": "The page you are looking for doesn't exist or has been moved.",
 		"backHome": "Back to home"
+	},
+	"privacy": {
+		"title": "Privacy Policy",
+		"subtitle": "Mauber Informática - Last updated: November 14, 2025",
+		"lastUpdated": "Last updated: November 14, 2025",
+		"introduction": {
+			"title": "1. Introduction",
+			"content": "Mauber Informática is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our applications and services."
+		},
+		"dataCollection": {
+			"title": "2. Information Collection",
+			"content": "We may collect the following types of information:",
+			"items": [
+				"Personal identification information (name, email address, phone number)",
+				"Usage and browsing data in applications",
+				"Device information (model, operating system, unique identifiers)",
+				"Location data (when authorized by the user)"
+			]
+		},
+		"dataUsage": {
+			"title": "3. Use of Information",
+			"content": "The information collected is used to:",
+			"items": [
+				"Provide, operate, and improve our services",
+				"Personalize your user experience",
+				"Communicate updates and news about our applications",
+				"Ensure security and prevent fraud"
+			]
+		},
+		"dataSharing": {
+			"title": "4. Data Sharing",
+			"content": "We do not sell your personal information. We may share data only with trusted service providers who assist us in operating the applications, always under confidentiality agreements."
+		},
+		"security": {
+			"title": "5. Security",
+			"content": "We implement technical and organizational security measures to protect your information against unauthorized access, alteration, disclosure, or destruction."
+		},
+		"userRights": {
+			"title": "6. Your Rights",
+			"content": "You have the right to:",
+			"items": [
+				"Access your personal information",
+				"Request correction of incorrect data",
+				"Request deletion of your data",
+				"Withdraw consent for data processing"
+			]
+		},
+		"cookies": {
+			"title": "7. Cookies and Similar Technologies",
+			"content": "We use cookies and similar technologies to improve your experience, analyze application usage, and personalize content. You can manage your cookie preferences in your device settings."
+		},
+		"changes": {
+			"title": "8. Changes to this Policy",
+			"content": "We may update this Privacy Policy periodically. We will notify you of significant changes through our applications or by email."
+		},
+		"contact": {
+			"title": "9. Contact",
+			"content": "If you have questions about this Privacy Policy or our data practices, please contact us:"
+		}
 	}
 }

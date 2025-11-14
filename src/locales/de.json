@@ -15,7 +15,8 @@
 		"about": "Über uns",
 		"apps": "Anwendungen",
 		"privacy": "Datenschutz",
-		"contact": "Kontakt"
+		"contact": "Kontakt",
+		"backToHome": "Zurück zur Startseite"
 	},
 	"footer": {
 		"rights": "Alle Rechte vorbehalten."
@@ -39,5 +40,64 @@
 		"title": "404 – Seite nicht gefunden",
 		"description": "Die Seite, die Sie suchen, existiert nicht oder wurde verschoben.",
 		"backHome": "Zurück zur Startseite"
+	},
+	"privacy": {
+		"title": "Datenschutzerklärung",
+		"subtitle": "Mauber Informática - Letzte Aktualisierung: 14. November 2025",
+		"lastUpdated": "Letzte Aktualisierung: 14. November 2025",
+		"introduction": {
+			"title": "1. Einführung",
+			"content": "Mauber Informática verpflichtet sich, Ihre Privatsphäre zu schützen. Diese Datenschutzerklärung erläutert, wie wir Ihre Informationen sammeln, verwenden, offenlegen und schützen, wenn Sie unsere Anwendungen und Dienste nutzen."
+		},
+		"dataCollection": {
+			"title": "2. Datenerfassung",
+			"content": "Wir können folgende Arten von Informationen erfassen:",
+			"items": [
+				"Persönliche Identifikationsinformationen (Name, E-Mail-Adresse, Telefonnummer)",
+				"Nutzungs- und Navigationsdaten in Anwendungen",
+				"Geräteinformationen (Modell, Betriebssystem, eindeutige Kennungen)",
+				"Standortdaten (wenn vom Benutzer autorisiert)"
+			]
+		},
+		"dataUsage": {
+			"title": "3. Verwendung der Informationen",
+			"content": "Die gesammelten Informationen werden verwendet für:",
+			"items": [
+				"Bereitstellung, Betrieb und Verbesserung unserer Dienste",
+				"Personalisierung Ihrer Benutzererfahrung",
+				"Kommunikation von Updates und Neuigkeiten über unsere Anwendungen",
+				"Gewährleistung der Sicherheit und Betrugsprävention"
+			]
+		},
+		"dataSharing": {
+			"title": "4. Datenweitergabe",
+			"content": "Wir verkaufen Ihre persönlichen Informationen nicht. Wir können Daten nur mit vertrauenswürdigen Dienstleistern teilen, die uns beim Betrieb der Anwendungen unterstützen, immer im Rahmen von Vertraulichkeitsvereinbarungen."
+		},
+		"security": {
+			"title": "5. Sicherheit",
+			"content": "Wir implementieren technische und organisatorische Sicherheitsmaßnahmen zum Schutz Ihrer Informationen vor unbefugtem Zugriff, Änderung, Offenlegung oder Zerstörung."
+		},
+		"userRights": {
+			"title": "6. Ihre Rechte",
+			"content": "Sie haben das Recht:",
+			"items": [
+				"Auf Ihre persönlichen Informationen zuzugreifen",
+				"Korrektur falscher Daten zu verlangen",
+				"Löschung Ihrer Daten zu verlangen",
+				"Die Einwilligung zur Datenverarbeitung zu widerrufen"
+			]
+		},
+		"cookies": {
+			"title": "7. Cookies und ähnliche Technologien",
+			"content": "Wir verwenden Cookies und ähnliche Technologien, um Ihre Erfahrung zu verbessern, die Nutzung der Anwendungen zu analysieren und Inhalte zu personalisieren. Sie können Ihre Cookie-Präferenzen in den Einstellungen Ihres Geräts verwalten."
+		},
+		"changes": {
+			"title": "8. Änderungen dieser Richtlinie",
+			"content": "Wir können diese Datenschutzerklärung regelmäßig aktualisieren. Wir werden Sie über wesentliche Änderungen über unsere Anwendungen oder per E-Mail informieren."
+		},
+		"contact": {
+			"title": "9. Kontakt",
+			"content": "Wenn Sie Fragen zu dieser Datenschutzerklärung oder unseren Datenpraktiken haben, kontaktieren Sie uns:"
+		}
 	}
 }

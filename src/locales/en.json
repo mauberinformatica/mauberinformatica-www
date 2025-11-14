@@ -160,5 +160,41 @@
 			"title": "10. Contact",
 			"content": "If you have questions about these Terms of Use, please contact us:"
 		}
+	},
+	"about": {
+		"title": "About Mauber Informática",
+		"subtitle": "Brazilian company specialized in mobile app development and digital solutions",
+		"introduction": {
+			"content1": "Mauber Informática is a Brazilian company specialized in mobile app development, digital solutions, and technology applied to the daily lives of people and businesses.",
+			"content2": "We create simple, efficient, and secure experiences, combining best practices in design, software engineering, and modern cloud infrastructure."
+		},
+		"whoWeAre": {
+			"title": "Who We Are",
+			"content": "The company is registered in Brazil under CNPJ 04.510.476/0001-23 and has been operating since 2001 in the information technology field, focusing on development, innovation, and technical consulting."
+		},
+		"ourWork": {
+			"title": "Our Work",
+			"content": "We develop:",
+			"items": [
+				"Applications for Android and iOS",
+				"Solutions based on Firebase and cloud services",
+				"Digital platforms and productivity tools",
+				"Independent apps and custom projects"
+			],
+			"commitment": "Our commitment is to deliver stable, functional, and secure software, with special attention to user experience and data privacy."
+		},
+		"mission": {
+			"title": "Mission",
+			"content": "To create useful, accessible, and well-built applications that simplify users' lives and deliver real value in their daily routines."
+		},
+		"contact": {
+			"title": "Contact",
+			"content": "For support, suggestions, questions, or partnerships, you can contact us via email:"
+		},
+		"importantLinks": {
+			"title": "Important Documents",
+			"privacy": "Privacy Policy",
+			"terms": "Terms of Use"
+		}
 	}
 }

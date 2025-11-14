@@ -160,5 +160,41 @@
 			"title": "10. Contacto",
 			"content": "Se tiver dúvidas sobre estes Termos de Uso, contacte-nos:"
 		}
+	},
+	"about": {
+		"title": "Sobre a Mauber Informática",
+		"subtitle": "Empresa brasileira especializada em desenvolvimento de aplicações móveis e soluções digitais",
+		"introduction": {
+			"content1": "A Mauber Informática é uma empresa brasileira especializada em desenvolvimento de aplicações móveis, soluções digitais e tecnologia aplicada ao dia a dia de pessoas e empresas.",
+			"content2": "Criamos experiências simples, eficientes e seguras, combinando boas práticas de design, engenharia de software e infraestrutura moderna na nuvem."
+		},
+		"whoWeAre": {
+			"title": "Quem Somos",
+			"content": "A empresa está registada no Brasil sob o CNPJ 04.510.476/0001-23 e actua desde 2001 na área de tecnologia da informação, com foco em desenvolvimento, inovação e consultoria técnica."
+		},
+		"ourWork": {
+			"title": "O Nosso Trabalho",
+			"content": "Desenvolvemos:",
+			"items": [
+				"Aplicações para Android e iOS",
+				"Soluções baseadas em Firebase e serviços na nuvem",
+				"Plataformas digitais e ferramentas de produtividade",
+				"Apps independentes e projectos sob medida"
+			],
+			"commitment": "O nosso compromisso é entregar software estável, funcional e seguro, com atenção especial à experiência do utilizador e ao cuidado com os seus dados."
+		},
+		"mission": {
+			"title": "Missão",
+			"content": "Criar aplicações úteis, acessíveis e bem construídas, que simplifiquem a vida dos utilizadores e entreguem valor real no dia a dia."
+		},
+		"contact": {
+			"title": "Contacto",
+			"content": "Para suporte, sugestões, dúvidas ou parcerias, pode contactar-nos pelo e-mail:"
+		},
+		"importantLinks": {
+			"title": "Documentos Importantes",
+			"privacy": "Política de Privacidade",
+			"terms": "Termos de Uso"
+		}
 	}
 }

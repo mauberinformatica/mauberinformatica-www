@@ -158,5 +158,41 @@
 			"title": "10. Contact",
 			"content": "Si vous avez des questions concernant ces Conditions d'Utilisation, contactez-nous :"
 		}
+	},
+	"about": {
+		"title": "À Propos de Mauber Informática",
+		"subtitle": "Entreprise brésilienne spécialisée dans le développement d'applications mobiles et de solutions numériques",
+		"introduction": {
+			"content1": "Mauber Informática est une entreprise brésilienne spécialisée dans le développement d'applications mobiles, de solutions numériques et de technologies appliquées à la vie quotidienne des personnes et des entreprises.",
+			"content2": "Nous créons des expériences simples, efficaces et sécurisées, en combinant les meilleures pratiques de design, d'ingénierie logicielle et d'infrastructure cloud moderne."
+		},
+		"whoWeAre": {
+			"title": "Qui Sommes-Nous",
+			"content": "L'entreprise est enregistrée au Brésil sous le numéro CNPJ 04.510.476/0001-23 et opère depuis 2001 dans le domaine des technologies de l'information, en se concentrant sur le développement, l'innovation et le conseil technique."
+		},
+		"ourWork": {
+			"title": "Notre Travail",
+			"content": "Nous développons:",
+			"items": [
+				"Applications pour Android et iOS",
+				"Solutions basées sur Firebase et services cloud",
+				"Plateformes numériques et outils de productivité",
+				"Applications indépendantes et projets sur mesure"
+			],
+			"commitment": "Notre engagement est de fournir des logiciels stables, fonctionnels et sécurisés, avec une attention particulière à l'expérience utilisateur et à la protection des données."
+		},
+		"mission": {
+			"title": "Mission",
+			"content": "Créer des applications utiles, accessibles et bien conçues qui simplifient la vie des utilisateurs et apportent une réelle valeur au quotidien."
+		},
+		"contact": {
+			"title": "Contact",
+			"content": "Pour le support, les suggestions, les questions ou les partenariats, vous pouvez nous contacter par e-mail:"
+		},
+		"importantLinks": {
+			"title": "Documents Importants",
+			"privacy": "Politique de Confidentialité",
+			"terms": "Conditions d'Utilisation"
+		}
 	}
 }

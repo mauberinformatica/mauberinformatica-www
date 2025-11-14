@@ -100,5 +100,99 @@
 			"title": "9. Contatto",
 			"content": "Se hai domande su questa Politica sulla Privacy o sulle nostre pratiche sui dati, contattaci:"
 		}
+	},
+	"terms": {
+		"title": "Termini di Uso",
+		"subtitle": "Mauber Informática - Ultimo aggiornamento: 14 novembre 2025",
+		"lastUpdated": "Ultimo aggiornamento: 14 novembre 2025",
+		"acceptance": {
+			"title": "1. Accettazione dei Termini",
+			"content": "Accedendo e utilizzando le applicazioni e i servizi di Mauber Informática, accetti di rispettare e di essere vincolato a questi Termini di Uso. Se non sei d'accordo con qualsiasi parte di questi termini, non dovresti utilizzare i nostri servizi."
+		},
+		"services": {
+			"title": "2. Descrizione dei Servizi",
+			"content": "Mauber Informática sviluppa e fornisce applicazioni mobili per piattaforme Android e iOS. I nostri servizi possono includere varie funzionalità come specificato in ciascuna applicazione, e ci riserviamo il diritto di modificare, sospendere o interrompere qualsiasi servizio in qualsiasi momento."
+		},
+		"userAccount": {
+			"title": "3. Account Utente",
+			"content": "Per utilizzare determinate funzioni delle nostre applicazioni, potrebbe essere necessario creare un account. Accetti di:",
+			"items": [
+				"Fornire informazioni accurate, aggiornate e complete durante la registrazione",
+				"Mantenere la sicurezza della tua password e identificazione",
+				"Notificarci immediatamente qualsiasi uso non autorizzato del tuo account",
+				"Essere responsabile di tutte le attività svolte tramite il tuo account"
+			]
+		},
+		"acceptableUse": {
+			"title": "4. Uso Accettabile",
+			"content": "Accetti di non utilizzare i nostri servizi per:",
+			"items": [
+				"Violare qualsiasi legge o regolamento applicabile",
+				"Violare i diritti di proprietà intellettuale di terzi",
+				"Trasmettere virus, malware o qualsiasi codice dannoso",
+				"Interferire o interrompere i servizi o i server",
+				"Raccogliere informazioni da altri utenti senza consenso"
+			]
+		},
+		"intellectualProperty": {
+			"title": "5. Proprietà Intellettuale",
+			"content": "Tutti i diritti di proprietà intellettuale relativi alle nostre applicazioni e servizi, inclusi ma non limitati a codice sorgente, design, marchi e contenuti, sono di proprietà esclusiva di Mauber Informática. Non puoi copiare, modificare, distribuire o creare opere derivate senza la nostra autorizzazione scritta preventiva."
+		},
+		"liability": {
+			"title": "6. Limitazione di Responsabilità",
+			"content": "I servizi sono forniti 'così come sono' senza garanzie di alcun tipo. Mauber Informática non è responsabile per danni diretti, indiretti, incidentali o consequenziali derivanti dall'uso o dall'impossibilità di utilizzare i nostri servizi. Non garantiamo che i servizi saranno ininterrotti, sicuri o privi di errori."
+		},
+		"modifications": {
+			"title": "7. Modifiche dei Servizi e dei Termini",
+			"content": "Ci riserviamo il diritto di modificare o interrompere, temporaneamente o permanentemente, i nostri servizi (o qualsiasi parte di essi) con o senza preavviso. Possiamo anche aggiornare periodicamente questi Termini di Uso. L'uso continuato dei servizi dopo le modifiche costituisce accettazione dei nuovi termini."
+		},
+		"termination": {
+			"title": "8. Risoluzione",
+			"content": "Possiamo sospendere o terminare il tuo accesso ai nostri servizi in qualsiasi momento, senza preavviso, per comportamenti che riteniamo violino questi Termini di Uso o siano dannosi per altri utenti, per noi o per terzi, o per qualsiasi altro motivo."
+		},
+		"governingLaw": {
+			"title": "9. Legge Applicabile",
+			"content": "Questi Termini di Uso saranno regolati e interpretati in conformità con le leggi dell'Italia, senza considerare conflitti di disposizioni legali. Qualsiasi controversia relativa a questi termini sarà risolta nei tribunali competenti dell'Italia."
+		},
+		"contact": {
+			"title": "10. Contatto",
+			"content": "Se hai domande su questi Termini di Uso, contattaci:"
+		}
+	},
+	"about": {
+		"title": "Chi Siamo - Mauber Informática",
+		"subtitle": "Azienda brasiliana specializzata nello sviluppo di app mobili e soluzioni digitali",
+		"introduction": {
+			"content1": "Mauber Informática è un'azienda brasiliana specializzata nello sviluppo di applicazioni mobili, soluzioni digitali e tecnologia applicata alla vita quotidiana di persone e aziende.",
+			"content2": "Creiamo esperienze semplici, efficienti e sicure, combinando le migliori pratiche di design, ingegneria del software e infrastruttura cloud moderna."
+		},
+		"whoWeAre": {
+			"title": "Chi Siamo",
+			"content": "L'azienda è registrata in Brasile con il CNPJ 04.510.476/0001-23 e opera dal 2001 nel settore della tecnologia dell'informazione, con focus su sviluppo, innovazione e consulenza tecnica."
+		},
+		"ourWork": {
+			"title": "Il Nostro Lavoro",
+			"content": "Sviluppiamo:",
+			"items": [
+				"Applicazioni per Android e iOS",
+				"Soluzioni basate su Firebase e servizi cloud",
+				"Piattaforme digitali e strumenti di produttività",
+				"App indipendenti e progetti su misura"
+			],
+			"commitment": "Il nostro impegno è fornire software stabile, funzionale e sicuro, con particolare attenzione all'esperienza utente e alla protezione dei dati."
+		},
+		"mission": {
+			"title": "Missione",
+			"content": "Creare applicazioni utili, accessibili e ben costruite che semplifichino la vita degli utenti e forniscano un valore reale nella vita quotidiana."
+		},
+		"contact": {
+			"title": "Contatto",
+			"content": "Per supporto, suggerimenti, domande o partnership, puoi contattarci via email:"
+		},
+		"importantLinks": {
+			"title": "Documenti Importanti",
+			"privacy": "Politica sulla Privacy",
+			"terms": "Termini di Uso"
+		}
 	}
 }

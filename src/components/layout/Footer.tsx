@@ -19,12 +19,12 @@ export function Footer({ currentYear }: FooterProps) {
 			<div className="max-w-4xl mx-auto">
 				{/* Links de navegação */}
 				<nav className="flex flex-wrap justify-center gap-6 mb-6 text-sm text-gray-600">
-					<a
-						href="#about"
+					<Link
+						to="/about"
 						className="hover:text-gray-900 transition-colors focus:outline-none focus:text-gray-900"
 					>
 						{t('navigation.about')}
-					</a>
+					</Link>
 					<a
 						href="#apps"
 						className="hover:text-gray-900 transition-colors focus:outline-none focus:text-gray-900"

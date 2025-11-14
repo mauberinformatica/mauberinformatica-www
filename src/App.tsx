@@ -8,6 +8,7 @@ import { Suspense } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Layout } from './components/layout/Layout';
 import { Home } from './pages/Home';
+import { About } from './pages/About';
 import { Privacy } from './pages/Privacy';
 import { Terms } from './pages/Terms';
 import { NotFound } from './pages/NotFound';
@@ -41,6 +42,9 @@ export default function App() {
 					<Routes>
 						{/* Página inicial */}
 						<Route path="/" element={<Home />} />
+
+						{/* Página sobre */}
+						<Route path="/about" element={<About />} />
 
 						{/* Página de privacidade */}
 						<Route path="/privacy" element={<Privacy />} />

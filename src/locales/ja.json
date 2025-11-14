@@ -36,5 +36,10 @@
 		"fr": "Français",
 		"de": "Deutsch",
 		"it": "Italiano"
+	},
+	"notFound": {
+		"title": "404 – ページが見つかりません",
+		"description": "お探しのページは存在しないか、移動されました。",
+		"backHome": "ホームに戻る"
 	}
 }

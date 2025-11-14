@@ -34,5 +34,10 @@
 		"fr": "Französisch",
 		"de": "Deutsch",
 		"it": "Italienisch"
+	},
+	"notFound": {
+		"title": "404 – Seite nicht gefunden",
+		"description": "Die Seite, die Sie suchen, existiert nicht oder wurde verschoben.",
+		"backHome": "Zurück zur Startseite"
 	}
 }
